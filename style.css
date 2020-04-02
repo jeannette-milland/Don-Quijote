@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+    border:none;
+}
+.flexCentered {
+    display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-between ;
+align-items: center ;
+align-content: center ;
+}
+.hi50 {
+    height:50px;
+    background-color:rgba(0,0,0,.7)
+}
+.hi50 a {
+    text-decoration:none;
+    color:white;
+}
+.colWidth12-12 {
+    width:100%;
+}
